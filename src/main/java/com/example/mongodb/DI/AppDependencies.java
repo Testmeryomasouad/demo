@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class AppDependencies {
 
-
+//test
     static  WalletRepository walletRepository;
     @Bean
     public static IWalletService dependenciInjenctionService(){
